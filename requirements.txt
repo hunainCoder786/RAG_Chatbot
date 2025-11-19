@@ -1,0 +1,9 @@
+gradio
+pinecone-client
+sentence-transformers
+pypdf
+openai
+transformers
+torch
+numpy
+uuid
